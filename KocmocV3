@@ -1,0 +1,4 @@
+getgenv().identifyexecutor = function() return "sex executor v3" end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua"))()
+
+--https://raw.githubusercontent.com/Eternal1ty/KocmocV3/main/Loader.lua
